@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @pictl
+- 👀 I’m interested in backend development
+- 🌱 I’m currently learning Python, Django, SQL
